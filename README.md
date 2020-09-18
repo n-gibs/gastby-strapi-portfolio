@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7a5d5d3-7fc5-4f03-80fa-515c1f18c017/deploy-status)](https://app.netlify.com/sites/nicole-gibson/deploys)
+
 ## Setup Notes
 
 1. All components ready to go (including imports)
