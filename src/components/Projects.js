@@ -3,6 +3,7 @@ import Title from "./Title"
 import Project from "./Project"
 import { Link } from "gatsby"
 const Projects = ({ projects, title, showLink }) => {
+  console.log(projects);
   return (
     <section className="section projects">
       <Title title={title} />
